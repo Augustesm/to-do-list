@@ -1,1 +1,2 @@
 # to-do-list
+I've developed a user-friendly to-do list utilizing HTML, JavaScript, and CSS. This interactive web application allows users to manage their tasks. The clean and intuitive interface enhances the user experience, while the dynamic functionality powered by JavaScript ensures seamless task addition, completion, and removal. The thoughtful design, combining aesthetics with functionality, provides an efficient tool for organizing daily tasks.
